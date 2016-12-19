@@ -13,6 +13,7 @@
 </script>
 </head>
 <body>
+	<a href="http://161.202.124.195:8393/api/v10/search/count?collection=rohm_diodes&query=%28%20param2_limits_param:%2240%22%20OR%20param2_limits_param:%2230%22%20%29%20AND%20param9_limits_param%3C%223%22&api_username=esadmin&api_password=watson4demo">rest api test</a>
 	<header class="_demo--heading">
 		<div class="_demo--container">
 			<a class="wordmark" href="index.jsp">
